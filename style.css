@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+header p {
+    text-align: center;
+}
+header a {
+    margin-left: 40px;
+    margin-right: 40px;
+    text-decoration: none;
+    border-bottom: solid 3px black;
+    color: black;
+}
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
+p img {
+    border-left: dotted 7px black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.text1 {
+    text-align: center;
+    border: 0px;
+}
+main p {
+    border: solid 1px black;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 22px;
+}
+.silka {
+    color: blue;
+}
+footer {
+    background-color: black;
+    padding: 5px;
+}
+footer p {
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    border: solis 1px white;
+    background-color: white;
+    font-size: 20px;
+}
